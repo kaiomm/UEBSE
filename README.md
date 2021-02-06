@@ -10,3 +10,5 @@ The player saves the current setup to the registry when the battle is loaded, th
 The game loads the registry key when it starts or when it comes from a battle. So in order to load your saved preset, you must run the registry file with the game closed or you can run the saved preset in the game menus load the "FPS Invasion" mode and leave it as the units are loading, this will take you back to the menu and the game will read the registry key when acessing the menu.
 
 It doesn't work loading or saving directly from the menu without launching the battle, or by cycling menus acessing options and stuff.
+
+ONLY WORKS ON WINDOWS VERSION
