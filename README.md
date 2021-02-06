@@ -11,4 +11,7 @@ The game loads the registry key when it starts or when it comes from a battle. S
 
 It doesn't work loading or saving directly from the menu without launching the battle, or by cycling menus acessing options and stuff.
 
-ONLY WORKS ON WINDOWS VERSION
+This only works in Windows version of the game.
+
+DO NOT ACCEPT ANY SAVED .REG FILE FROM OTHERS!!! THIS EDITS WINDOWS REGISTRY AND CAN HARM YOU COMPUTER!!!
+ONLY USE SAVED .REG FILES YOU CREATED YOURSELF!!! CHECK MD5 OF VBS SCRIPT IF YOU DOWNLOADED IT SOMEWHERE ELSE!!!
